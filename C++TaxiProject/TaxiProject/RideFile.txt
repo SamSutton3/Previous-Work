@@ -1,0 +1,4 @@
+1 2 1 5 Wolverhampton Birmingham 120419 2.46 45 17 31.07
+2 3 3 2 Tipton Walsall 130419 18.57 24 7.8 18.07
+3 1 3 4 Shrewsbury Telford 130419 03.24 24 9.4 15.98
+4 7 4 6 NG118nNS NG18BJ 2790419 05.37 18 3.4 6
